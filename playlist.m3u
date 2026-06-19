@@ -1,4 +1,74 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="CH2037",CH2037
+http://cdn.telecloud.tv:80/CH2037/index.m3u8
+#EXTINF:-1 tvg-id="CH2105",CH2105
+http://cdn.telecloud.tv:80/CH2105/index.m3u8
+#EXTINF:-1 tvg-id="CH2129",CH2129
+http://cdn.telecloud.tv:80/CH2129/index.m3u8
+#EXTINF:-1 tvg-id="CH2139",CH2139
+http://cdn.telecloud.tv:80/CH2139/index.m3u8
+#EXTINF:-1 tvg-id="CH2141",CH2141
+http://cdn.telecloud.tv:80/CH2141/index.m3u8
+#EXTINF:-1 tvg-id="CH2177",CH2177
+http://cdn.telecloud.tv:80/CH2177/index.m3u8
+#EXTINF:-1 tvg-id="CH2179",CH2179
+http://cdn.telecloud.tv:80/CH2179/index.m3u8
+#EXTINF:-1 tvg-id="CH2181",CH2181
+http://cdn.telecloud.tv:80/CH2181/index.m3u8
+#EXTINF:-1 tvg-id="CH2185",CH2185
+http://cdn.telecloud.tv:80/CH2185/index.m3u8
+#EXTINF:-1 tvg-id="CH2265",CH2265
+http://cdn.telecloud.tv:80/CH2265/index.m3u8
+#EXTINF:-1 tvg-id="CH2269",CH2269
+http://cdn.telecloud.tv:80/CH2269/index.m3u8
+#EXTINF:-1 tvg-id="CH2271",CH2271
+http://cdn.telecloud.tv:80/CH2271/index.m3u8
+#EXTINF:-1 tvg-id="CH2273",CH2273
+http://cdn.telecloud.tv:80/CH2273/index.m3u8
+#EXTINF:-1 tvg-id="CH2401",CH2401
+http://cdn.telecloud.tv:80/CH2401/index.m3u8
+#EXTINF:-1 tvg-id="CH2403",CH2403
+http://cdn.telecloud.tv:80/CH2403/index.m3u8
+#EXTINF:-1 tvg-id="CH2405",CH2405
+http://cdn.telecloud.tv:80/CH2405/index.m3u8
+#EXTINF:-1 tvg-id="CH2537",CH2537
+http://cdn.telecloud.tv:80/CH2537/index.m3u8
+#EXTINF:-1 tvg-id="CH2539",CH2539
+http://cdn.telecloud.tv:80/CH2539/index.m3u8
+#EXTINF:-1 tvg-id="CH2541",CH2541
+http://cdn.telecloud.tv:80/CH2541/index.m3u8
+#EXTINF:-1 tvg-id="CH2543",CH2543
+http://cdn.telecloud.tv:80/CH2543/index.m3u8
+#EXTINF:-1 tvg-id="CH2547",CH2547
+http://cdn.telecloud.tv:80/CH2547/index.m3u8
+#EXTINF:-1 tvg-id="CH2557",CH2557
+http://cdn.telecloud.tv:80/CH2557/index.m3u8
+#EXTINF:-1 tvg-id="CH2559",CH2559
+http://cdn.telecloud.tv:80/CH2559/index.m3u8
+#EXTINF:-1 tvg-id="CH2561",CH2561
+http://cdn.telecloud.tv:80/CH2561/index.m3u8
+#EXTINF:-1 tvg-id="CH2703",CH2703
+http://cdn.telecloud.tv:80/CH2703/index.m3u8
+#EXTINF:-1 tvg-id="CH2743",CH2743
+http://cdn.telecloud.tv:80/CH2743/index.m3u8
+#EXTINF:-1 tvg-id="CH2783",CH2783
+http://cdn.telecloud.tv:80/CH2783/index.m3u8
+#EXTINF:-1 tvg-id="CH2787",CH2787
+http://cdn.telecloud.tv:80/CH2787/index.m3u8
+#EXTINF:-1 tvg-id="CH2789",CH2789
+http://cdn.telecloud.tv:80/CH2789/index.m3u8
+#EXTINF:-1 tvg-id="CH2795",CH2795
+http://cdn.telecloud.tv:80/CH2795/index.m3u8
+#EXTINF:-1 tvg-id="CH2805",CH2805
+http://cdn.telecloud.tv:80/CH2805/index.m3u8
+#EXTINF:-1 tvg-id="CH2833",CH2833
+http://cdn.telecloud.tv:80/CH2833/index.m3u8
+#EXTINF:-1 tvg-id="CH2895",CH2895
+http://cdn.telecloud.tv:80/CH2895/index.m3u8
+#EXTINF:-1 tvg-id="CH2927",CH2927
+http://cdn.telecloud.tv:80/CH2927/index.m3u8
+#EXTINF:-1 tvg-id="CH2931",CH2931
+http://cdn.telecloud.tv:80/CH2931/index.m3u8
 #EXTINF:-1 tvg-id="CH3013",CH3013
 http://cdn.telecloud.tv:80/CH3013/index.m3u8
 #EXTINF:-1 tvg-id="CH3015",CH3015
