@@ -3,21 +3,32 @@ name: Scan Channel Range
 on:
   workflow_dispatch:
     inputs:
+      source:
+        description: 'Source preset'
+        type: choice
+        options:
+          - telecloud
+          - peaky
+        default: 'telecloud'
+        required: false
       start:
         description: 'Start channel number'
+        type: string
         default: '3000'
         required: false
       end:
         description: 'End channel number'
+        type: string
         default: '4000'
         required: false
       workers:
         description: 'Concurrent workers'
+        type: string
         default: '25'
         required: false
   schedule:
     # Optional: run every 8 hours. Remove this block if you only want manual runs.
-   # - cron: '0 */8 * * *'
+    - cron: '0 */8 * * *'
 
 jobs:
   scan:
@@ -37,6 +48,7 @@ jobs:
       - name: Run channel scan
         run: |
           python scan_channels.py \
+            --source "${{ github.event.inputs.source || 'telecloud' }}" \
             --start "${{ github.event.inputs.start || '3000' }}" \
             --end "${{ github.event.inputs.end || '4000' }}" \
             --workers "${{ github.event.inputs.workers || '25' }}"
@@ -45,6 +57,6 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add playlist.m3u scan_log.csv
+          git add playlist_*.m3u scan_log_*.csv
           git diff --quiet --cached || git commit -m "Update channel scan results [skip ci]"
           git push
