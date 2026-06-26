@@ -85,8 +85,6 @@ http://cdn.telecloud.tv:80/CH3425/index.m3u8
 http://cdn.telecloud.tv:80/CH3427/index.m3u8
 #EXTINF:-1 tvg-id="CH3429",CH3429
 http://cdn.telecloud.tv:80/CH3429/index.m3u8
-#EXTINF:-1 tvg-id="CH3431",CH3431
-http://cdn.telecloud.tv:80/CH3431/index.m3u8
 #EXTINF:-1 tvg-id="CH3449",CH3449
 http://cdn.telecloud.tv:80/CH3449/index.m3u8
 #EXTINF:-1 tvg-id="CH3451",CH3451
