@@ -633,6 +633,8 @@ http://cdn.telecloud.tv:80/CH7109/index.m3u8
 http://cdn.telecloud.tv:80/CH7111/index.m3u8
 #EXTINF:-1 tvg-id="CH7115",CH7115
 http://cdn.telecloud.tv:80/CH7115/index.m3u8
+#EXTINF:-1 tvg-id="CH7117",CH7117
+http://cdn.telecloud.tv:80/CH7117/index.m3u8
 #EXTINF:-1 tvg-id="CH7123",CH7123
 http://cdn.telecloud.tv:80/CH7123/index.m3u8
 #EXTINF:-1 tvg-id="CH7131",CH7131
@@ -641,6 +643,8 @@ http://cdn.telecloud.tv:80/CH7131/index.m3u8
 http://cdn.telecloud.tv:80/CH7153/index.m3u8
 #EXTINF:-1 tvg-id="CH7159",CH7159
 http://cdn.telecloud.tv:80/CH7159/index.m3u8
+#EXTINF:-1 tvg-id="CH7163",CH7163
+http://cdn.telecloud.tv:80/CH7163/index.m3u8
 #EXTINF:-1 tvg-id="CH7169",CH7169
 http://cdn.telecloud.tv:80/CH7169/index.m3u8
 #EXTINF:-1 tvg-id="CH7171",CH7171
