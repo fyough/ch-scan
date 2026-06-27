@@ -430,7 +430,7 @@ CH3427,http://cdn.telecloud.tv:80/CH3427/index.m3u8,200,True,ok
 CH3428,http://cdn.telecloud.tv:80/CH3428/index.m3u8,404,False,HTTP 404
 CH3429,http://cdn.telecloud.tv:80/CH3429/index.m3u8,200,True,ok
 CH3430,http://cdn.telecloud.tv:80/CH3430/index.m3u8,404,False,HTTP 404
-CH3431,http://cdn.telecloud.tv:80/CH3431/index.m3u8,404,False,HTTP 404
+CH3431,http://cdn.telecloud.tv:80/CH3431/index.m3u8,200,True,ok
 CH3432,http://cdn.telecloud.tv:80/CH3432/index.m3u8,404,False,HTTP 404
 CH3433,http://cdn.telecloud.tv:80/CH3433/index.m3u8,404,False,HTTP 404
 CH3434,http://cdn.telecloud.tv:80/CH3434/index.m3u8,404,False,HTTP 404
@@ -862,7 +862,7 @@ CH3859,http://cdn.telecloud.tv:80/CH3859/index.m3u8,200,True,ok
 CH3860,http://cdn.telecloud.tv:80/CH3860/index.m3u8,404,False,HTTP 404
 CH3861,http://cdn.telecloud.tv:80/CH3861/index.m3u8,200,True,ok
 CH3862,http://cdn.telecloud.tv:80/CH3862/index.m3u8,404,False,HTTP 404
-CH3863,http://cdn.telecloud.tv:80/CH3863/index.m3u8,404,False,HTTP 404
+CH3863,http://cdn.telecloud.tv:80/CH3863/index.m3u8,200,True,ok
 CH3864,http://cdn.telecloud.tv:80/CH3864/index.m3u8,404,False,HTTP 404
 CH3865,http://cdn.telecloud.tv:80/CH3865/index.m3u8,200,True,ok
 CH3866,http://cdn.telecloud.tv:80/CH3866/index.m3u8,404,False,HTTP 404
