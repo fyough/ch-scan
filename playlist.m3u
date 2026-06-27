@@ -843,6 +843,60 @@ http://cdn.telecloud.tv:80/CH9017/index.m3u8
 http://cdn.telecloud.tv:80/CH9093/index.m3u8
 #EXTINF:-1 tvg-id="CH9378",CH9378
 http://cdn.telecloud.tv:80/CH9378/index.m3u8
+#EXTINF:-1 tvg-id="CH10381",CH10381
+http://cdn.telecloud.tv:80/CH10381/index.m3u8
+#EXTINF:-1 tvg-id="CH10383",CH10383
+http://cdn.telecloud.tv:80/CH10383/index.m3u8
+#EXTINF:-1 tvg-id="CH10385",CH10385
+http://cdn.telecloud.tv:80/CH10385/index.m3u8
+#EXTINF:-1 tvg-id="CH10387",CH10387
+http://cdn.telecloud.tv:80/CH10387/index.m3u8
+#EXTINF:-1 tvg-id="CH10389",CH10389
+http://cdn.telecloud.tv:80/CH10389/index.m3u8
+#EXTINF:-1 tvg-id="CH10433",CH10433
+http://cdn.telecloud.tv:80/CH10433/index.m3u8
+#EXTINF:-1 tvg-id="CH10567",CH10567
+http://cdn.telecloud.tv:80/CH10567/index.m3u8
+#EXTINF:-1 tvg-id="CH10661",CH10661
+http://cdn.telecloud.tv:80/CH10661/index.m3u8
+#EXTINF:-1 tvg-id="CH10689",CH10689
+http://cdn.telecloud.tv:80/CH10689/index.m3u8
+#EXTINF:-1 tvg-id="CH10691",CH10691
+http://cdn.telecloud.tv:80/CH10691/index.m3u8
+#EXTINF:-1 tvg-id="CH10695",CH10695
+http://cdn.telecloud.tv:80/CH10695/index.m3u8
+#EXTINF:-1 tvg-id="CH10713",CH10713
+http://cdn.telecloud.tv:80/CH10713/index.m3u8
+#EXTINF:-1 tvg-id="CH10715",CH10715
+http://cdn.telecloud.tv:80/CH10715/index.m3u8
+#EXTINF:-1 tvg-id="CH11266",CH11266
+http://cdn.telecloud.tv:80/CH11266/index.m3u8
+#EXTINF:-1 tvg-id="CH11788",CH11788
+http://cdn.telecloud.tv:80/CH11788/index.m3u8
+#EXTINF:-1 tvg-id="CH11911",CH11911
+http://cdn.telecloud.tv:80/CH11911/index.m3u8
+#EXTINF:-1 tvg-id="CH11941",CH11941
+http://cdn.telecloud.tv:80/CH11941/index.m3u8
+#EXTINF:-1 tvg-id="CH12594",CH12594
+http://cdn.telecloud.tv:80/CH12594/index.m3u8
+#EXTINF:-1 tvg-id="CH12639",CH12639
+http://cdn.telecloud.tv:80/CH12639/index.m3u8
+#EXTINF:-1 tvg-id="CH12672",CH12672
+http://cdn.telecloud.tv:80/CH12672/index.m3u8
+#EXTINF:-1 tvg-id="CH12690",CH12690
+http://cdn.telecloud.tv:80/CH12690/index.m3u8
+#EXTINF:-1 tvg-id="CH14492",CH14492
+http://cdn.telecloud.tv:80/CH14492/index.m3u8
+#EXTINF:-1 tvg-id="CH14498",CH14498
+http://cdn.telecloud.tv:80/CH14498/index.m3u8
+#EXTINF:-1 tvg-id="CH14607",CH14607
+http://cdn.telecloud.tv:80/CH14607/index.m3u8
+#EXTINF:-1 tvg-id="CH14964",CH14964
+http://cdn.telecloud.tv:80/CH14964/index.m3u8
+#EXTINF:-1 tvg-id="CH14968",CH14968
+http://cdn.telecloud.tv:80/CH14968/index.m3u8
+#EXTINF:-1 tvg-id="CH14997",CH14997
+http://cdn.telecloud.tv:80/CH14997/index.m3u8
 #EXTINF:-1 tvg-id="CH15033",CH15033
 http://cdn.telecloud.tv:80/CH15033/index.m3u8
 #EXTINF:-1 tvg-id="CH15039",CH15039
