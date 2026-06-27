@@ -15,7 +15,7 @@ on:
         description: 'Concurrent workers'
         default: '25'
         required: false
-  schedule:
+ # schedule:
     # Optional: run every 8 hours. Remove this block if you only want manual runs.
     # - cron: '0 */8 * * *'
 
