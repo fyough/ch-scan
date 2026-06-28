@@ -1019,3 +1019,5 @@ http://cdn.telecloud.tv:80/CH17093/index.m3u8
 http://cdn.telecloud.tv:80/CH17591/index.m3u8
 #EXTINF:-1 tvg-id="CH17825",CH17825
 http://cdn.telecloud.tv:80/CH17825/index.m3u8
+#EXTINF:-1 tvg-id="CH17828",CH17828
+http://cdn.telecloud.tv:80/CH17828/index.m3u8
